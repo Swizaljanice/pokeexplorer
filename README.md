@@ -2,7 +2,7 @@
   Explore the first 150 Pokémon interactively using search and type filters, with a beautiful butter-yellow and coral-themed UI.
 
 ### Live Demo
- View Deployed App
+ [Deployed link](https://pokeexplorer-three.vercel.app/)
 
 ### Screenshots
 ![Home page](<Screenshot 2025-05-03 190352.png>)
